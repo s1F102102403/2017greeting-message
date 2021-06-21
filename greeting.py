@@ -1,5 +1,4 @@
 from datetime import datetime
-
 def greet(name):
     hour = datetime.now().hour
     if hour <= 11:
